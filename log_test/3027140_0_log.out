@@ -1,0 +1,4 @@
+submitit INFO (2023-02-27 20:38:39,509) - Starting with JobEnvironment(job_id=3027140, hostname=kisexe18, local_rank=0(1), node=0(1), global_rank=0(1))
+submitit INFO (2023-02-27 20:38:39,509) - Loading pickle: /work/dlclarge2/rkohli-tabpfn-results/TabPFNRawResultsHourSearch/log_test/3027140_submitted.pkl
+submitit INFO (2023-02-27 20:38:42,530) - Job completed successfully
+submitit INFO (2023-02-27 20:38:42,534) - Exitting after successful completion

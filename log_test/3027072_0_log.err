@@ -1,0 +1,4 @@
+cpu-bind=MASK - kisexe20, task  0  0 [9686]: mask 0x100 set
+cpu-bind=MASK - kisexe20, task  0  0 [10071]: mask 0x100 set
+/home/rkohli/anaconda3/lib/python3.7/site-packages/statsmodels/tools/_testing.py:19: FutureWarning: pandas.util.testing is deprecated. Use the functions in the public API at pandas.testing instead.
+  import pandas.util.testing as tm
